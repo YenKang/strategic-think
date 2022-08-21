@@ -1,0 +1,2 @@
+# strategic-think
+strategic-think
